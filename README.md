@@ -64,10 +64,7 @@ Built using **Tableau Desktop** with Blinkit brand colors.
 
 ## 🛠️ Tools Used
 
-- **Tableau Desktop** — Dashboard & Visualization
+- **Tableau Public** — Dashboard & Visualization
 
 ---
 
-## 👤 Author
-
-Made with ❤️ as part of Data Analytics Bootcamp
