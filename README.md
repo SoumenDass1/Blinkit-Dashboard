@@ -1,10 +1,10 @@
-# 🟡 Blinkit Business Dashboard
+# Blinkit Business Dashboard
 
 A complete data analysis and visualization project built using **Tableau**, based on Blinkit's operational data.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 blinkit-dashboard/
@@ -52,17 +52,17 @@ Built using **Tableau Desktop** with Blinkit brand colors.
 - Total Products — **268**
 
 ### Charts
-- 📈 Monthly Revenue Trend (Line Chart)
-- 🏆 Top 10 Products by Revenue (Bar Chart)
-- 🍩 Customer Segment Breakdown (Donut Chart)
-- 🚚 Delivery Status (Donut Chart)
-- 😊 Sentiment Analysis (Bar Chart)
-- 💳 Payment Method Analysis (Bar Chart)
-- ⭐ Rating Distribution (Bar Chart)
+- Monthly Revenue Trend (Line Chart)
+- Top 10 Products by Revenue (Bar Chart)
+- Customer Segment Breakdown (Donut Chart)
+- Delivery Status (Donut Chart)
+- Sentiment Analysis (Bar Chart)
+- Payment Method Analysis (Bar Chart)
+- Rating Distribution (Bar Chart)
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Tableau Public** — Dashboard & Visualization
 
