@@ -1,4 +1,4 @@
-# Blinkit Business Dashboard
+# Blinkit Dashboard
 
 A complete data analysis and visualization project built using **Tableau**, based on Blinkit's operational data.
 
